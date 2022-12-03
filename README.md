@@ -1,6 +1,5 @@
 # Pacmen Factory
 A little game allowing you to create Pacmen and adjust their speed as they jump around the screen. Built with vanilla javascript and HTML.
-<img src="PacMan1.png">
 
 ### How to Run
 1. Download repository;
